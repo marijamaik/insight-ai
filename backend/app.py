@@ -32,9 +32,16 @@ async def upload_data(file: UploadFile = File(...)):
     try:
         # Read the uploaded file into a pandas DataFrame
         contents = await file.read()
-        decoded = contents.decode("utf-8")
-        df = pd.read_csv(io.StringIO(decoded))
-        # Perform ingestion logic (e.g., save to database or process data)
+        if file.filename.endswith(".csv"):
+            decoded = contents.decode("utf-8")
+            df = pd.read_csv(io.StringIO(decoded))
+        elif file.filename.endswith(".xlsx"):
+            df = pd.read_excel(io.BytesIO(contents))
+        else:
+            raise HTTPException(status_code=400, detail="Unsupported file format. Please upload a CSV or Excel file.")
+        # Check if the DataFrame is empty
+        if df.empty:
+            raise HTTPException(status_code=400, detail="Uploaded file is empty.")
         return {
             "message": "File uploaded successfully", 
             "columns": df.columns.tolist()
