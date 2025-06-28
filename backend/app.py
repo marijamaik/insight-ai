@@ -1,10 +1,19 @@
+from datetime import datetime
+import json
 from fastapi import FastAPI
 from fastapi import UploadFile, File, HTTPException
 import pandas as pd
 import io
+from sqlalchemy.orm import Session
+
 from .data_ingestion import clean_and_profile
+from .database import engine, SessionLocal
+from .models import Base, DatasetMetadata
 
 app = FastAPI()
+
+# Create tables in DB if they don't exist
+Base.metadata.create_all(bind=engine)
 
 # - A root endpoint that returns a welcome message
 @app.get("/")
@@ -45,6 +54,18 @@ async def upload_data(file: UploadFile = File(...)):
             raise HTTPException(status_code=400, detail="Uploaded file is empty.")
         
         profile = clean_and_profile(df)
+
+        # Save metadata to DB
+        db: Session = SessionLocal()
+        metadata = DatasetMetadata(
+            filename=file.filename, 
+            profile=json.dumps(profile),
+            created_at=datetime.utcnow()
+        )
+        db.add(metadata)
+        db.commit()
+        db.close()
+
         return {
             "message": "File uploaded successfully", 
             "columns": df.columns.tolist(),
