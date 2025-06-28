@@ -2,6 +2,7 @@ from fastapi import FastAPI
 from fastapi import UploadFile, File, HTTPException
 import pandas as pd
 import io
+from .data_ingestion import clean_and_profile
 
 app = FastAPI()
 
@@ -42,9 +43,13 @@ async def upload_data(file: UploadFile = File(...)):
         # Check if the DataFrame is empty
         if df.empty:
             raise HTTPException(status_code=400, detail="Uploaded file is empty.")
+        
+        profile = clean_and_profile(df)
         return {
             "message": "File uploaded successfully", 
-            "columns": df.columns.tolist()
+            "columns": df.columns.tolist(),
+            "profile": profile
         }
+    
     except Exception as e:
         raise HTTPException(status_code=400, detail=f"Error processing file: {str(e)}")
