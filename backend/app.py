@@ -22,20 +22,6 @@ async def read_root():
         "message": "Welcome to insightAI backend"
     }
 
-# This endpoint checks the health of the application
-@app.get("/health")
-async def health_check():
-    return {
-        "status": "healthy"
-    }
-
-# This endpoint returns the version of the application
-@app.get("/version")
-async def get_version():
-    return {
-        "version": "1.0.0"
-    }
-
 # This endpoint allows users to upload CSV files for data ingestion
 @app.post("/data/upload")
 async def upload_data(file: UploadFile = File(...)):
@@ -74,3 +60,41 @@ async def upload_data(file: UploadFile = File(...)):
     
     except Exception as e:
         raise HTTPException(status_code=400, detail=f"Error processing file: {str(e)}")
+
+# This endpoint allows users to list all datasets uploaded
+@app.get("/datasets")
+async def list_datasets():
+    db: Session = SessionLocal()
+    datasets = db.query(DatasetMetadata).all()
+    db.close()
+    return [{"id": d.id, 
+             "filename": d.filename, 
+             "created_at": d.created_at
+             } for d in datasets]
+
+# This endpoint allows users to retrieve metadata for a specific dataset by its ID
+@app.get("/datasets/{dataset_id}")
+async def get_dataset(dataset_id: int):
+    db: Session = SessionLocal()
+    dataset = db.query(DatasetMetadata).filter(DatasetMetadata.id == dataset_id).first()
+    if not dataset:
+        raise HTTPException(status_code=404, detail="Dataset not found")
+    db.close()
+    return {
+        "id": dataset.id,
+        "filename": dataset.filename,
+        "profile": json.loads(dataset.profile),
+        "created_at": dataset.created_at
+    }
+
+# This endpoint allows users to delete a dataset by its ID
+@app.delete("/datasets/{dataset_id}")
+async def delete_dataset(dataset_id: int):
+    db: Session = SessionLocal()
+    dataset = db.query(DatasetMetadata).filter(DatasetMetadata.id == dataset_id).first()
+    if not dataset:
+        raise HTTPException(status_code=404, detail="Dataset not found")
+    db.delete(dataset)
+    db.commit()
+    db.close()
+    return {"message": "Dataset deleted successfully"}
