@@ -46,7 +46,9 @@ async def upload_data(file: UploadFile = File(...)):
         metadata = DatasetMetadata(
             filename=file.filename, 
             profile=json.dumps(profile),
-            created_at=datetime.utcnow()
+            created_at=datetime.utcnow(),
+            file_size_bytes=len(contents),
+            processing_status="completed"
         )
         db.add(metadata)
         db.commit()

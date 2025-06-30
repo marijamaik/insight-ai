@@ -1,101 +1,101 @@
-﻿transaction_id,date,account_id,transaction_type,category,amount,balance,description,location,,,,,
-TXN-001,01/01/2024,ACC-1001,Debit,Food,&,Dining,-45.67,2954.33,Restaurant,Purchase,New,York,
-TXN-002,01/01/2024,ACC-1002,Credit,Salary,5000,7500,Monthly,Salary,Direct,Deposit,,,
-TXN-003,02/01/2024,ACC-1001,Debit,Transportation,-12.5,2941.83,Metro,Card,New,York,,,
-TXN-004,02/01/2024,ACC-1003,Debit,Shopping,-89.99,1510.01,Online,Purchase,Amazon,,,,
-TXN-005,03/01/2024,ACC-1001,Credit,Transfer,1000,3941.83,From,Savings,Internal,Transfer,,,
-TXN-006,03/01/2024,ACC-1002,Debit,Utilities,-125.45,7374.55,Electric,Bill,ConEd,,,,
-TXN-007,04/01/2024,ACC-1003,Debit,Healthcare,-250,1260.01,Doctor,Visit,Medical,Center,,,
-TXN-008,04/01/2024,ACC-1001,Debit,Entertainment,-35,3906.83,Movie,Tickets,AMC,Theater,,,
-TXN-009,05/01/2024,ACC-1002,Debit,Rent,-1800,5574.55,Monthly,Rent,Property,Management,,,
-TXN-010,05/01/2024,ACC-1003,Credit,Refund,25.99,1286,Return,Purchase,Best,Buy,,,
-TXN-011,06/01/2024,ACC-1001,Debit,Food,&,Dining,-28.75,3878.08,Coffee,Shop,Starbucks,,
-TXN-012,06/01/2024,ACC-1002,Debit,Transportation,-45,5529.55,Gas,Station,Shell,,,,
-TXN-013,07/01/2024,ACC-1003,Debit,Shopping,-156.78,1129.22,Department,Store,Macy's,,,,
-TXN-014,07/01/2024,ACC-1001,Credit,Interest,15.5,3893.58,Monthly,Interest,Bank,,,,
-TXN-015,08/01/2024,ACC-1002,Debit,Food,&,Dining,-67.89,5461.66,Grocery,Store,Whole,Foods,
-TXN-016,08/01/2024,ACC-1003,Debit,Utilities,-89.45,1039.77,Internet,Bill,Comcast,,,,
-TXN-017,09/01/2024,ACC-1001,Debit,Entertainment,-22.5,3871.08,Streaming,Service,Netflix,,,,
-TXN-018,09/01/2024,ACC-1002,Debit,Healthcare,-45,5416.66,Pharmacy,CVS,,,,,
-TXN-019,10/01/2024,ACC-1003,Credit,Transfer,500,1539.77,From,Checking,Internal,Transfer,,,
-TXN-020,10/01/2024,ACC-1001,Debit,Transportation,-8.75,3862.33,Bus,Fare,MTA,,,,
-TXN-021,11/01/2024,ACC-1002,Debit,Shopping,-234.56,5182.1,Electronics,Store,Best,Buy,,,
-TXN-022,11/01/2024,ACC-1003,Debit,Food,&,Dining,-42.33,1497.44,Restaurant,Italian,Bistro,,
-TXN-023,12/01/2024,ACC-1001,Debit,Utilities,-78.9,3783.43,Phone,Bill,Verizon,,,,
-TXN-024,12/01/2024,ACC-1002,Credit,Bonus,1000,6182.1,Performance,Bonus,Company,,,,
-TXN-025,13/01/2024,ACC-1003,Debit,Entertainment,-15.99,1481.45,Movie,Rental,Apple,TV,,,
-TXN-026,13/01/2024,ACC-1001,Debit,Food,&,Dining,-56.78,3726.65,Lunch,Meeting,Business,Expense,
-TXN-027,14/01/2024,ACC-1002,Debit,Healthcare,-120,6062.1,Dentist,Visit,Dental,Care,,,
-TXN-028,14/01/2024,ACC-1003,Debit,Shopping,-78.9,1402.55,Clothing,Store,Gap,,,,
-TXN-029,15/01/2024,ACC-1001,Credit,Refund,34.5,3761.15,Restaurant,Refund,Credit,Card,,,
-TXN-030,15/01/2024,ACC-1002,Debit,Transportation,-65,5997.1,Car,Maintenance,Auto,Shop,,,
-TXN-031,16/01/2024,ACC-1003,Debit,Utilities,-145.67,1256.88,Gas,Bill,National,Grid,,,
-TXN-032,16/01/2024,ACC-1001,Debit,Entertainment,-89.99,3671.16,Concert,Tickets,Ticketmaster,,,,
-TXN-033,17/01/2024,ACC-1002,Debit,Food,&,Dining,-123.45,5873.65,Fine,Dining,Steakhouse,,
-TXN-034,17/01/2024,ACC-1003,Credit,Interest,8.75,1265.63,Savings,Interest,Bank,,,,
-TXN-035,18/01/2024,ACC-1001,Debit,Shopping,-267.89,3403.27,Home,Improvement,Home,Depot,,,
-TXN-036,18/01/2024,ACC-1002,Debit,Healthcare,-75,5798.65,Physical,Therapy,Therapy,Center,,,
-TXN-037,19/01/2024,ACC-1003,Debit,Transportation,-25.5,1240.13,Uber,Ride,Uber,,,,
-TXN-038,19/01/2024,ACC-1001,Debit,Food,&,Dining,-38.9,3364.37,Fast,Food,McDonald's,,
-TXN-039,20/01/2024,ACC-1002,Debit,Entertainment,-199.99,5598.66,Sports,Event,Madison,Square,Garden,,
-TXN-040,20/01/2024,ACC-1003,Debit,Shopping,-89.76,1150.37,Bookstore,Barnes,&,Noble,,,
-TXN-041,21/01/2024,ACC-1001,Credit,Transfer,800,4164.37,From,Savings,Internal,Transfer,,,
-TXN-042,21/01/2024,ACC-1002,Debit,Utilities,-156.78,5441.88,Water,Bill,Water,Company,,,
-TXN-043,22/01/2024,ACC-1003,Debit,Food,&,Dining,-67.89,1082.48,Bakery,Local,Bakery,,
-TXN-044,22/01/2024,ACC-1001,Debit,Transportation,-45.6,4118.77,Parking,Fee,City,Parking,,,
-TXN-045,23/01/2024,ACC-1002,Debit,Healthcare,-200,5241.88,Specialist,Visit,Medical,Group,,,
-TXN-046,23/01/2024,ACC-1003,Debit,Entertainment,-29.99,1052.49,Gaming,Subscription,PlayStation,,,,
-TXN-047,24/01/2024,ACC-1001,Debit,Shopping,-134.56,3984.21,Pharmacy,Walgreens,,,,,
-TXN-048,24/01/2024,ACC-1002,Credit,Cashback,45.67,5287.55,Credit,Card,Cashback,Chase,,,
-TXN-049,25/01/2024,ACC-1003,Debit,Food,&,Dining,-78.9,973.59,Sushi,Restaurant,Sushi,Bar,
-TXN-050,25/01/2024,ACC-1001,Debit,Utilities,-89.45,3894.76,Trash,Service,Waste,Management,,,
-TXN-051,26/01/2024,ACC-1002,Debit,Transportation,-125,5162.55,Car,Insurance,State,Farm,,,
-TXN-052,26/01/2024,ACC-1003,Debit,Shopping,-245.67,727.92,Furniture,Store,IKEA,,,,
-TXN-053,27/01/2024,ACC-1001,Debit,Entertainment,-45.99,3848.77,Subscription,Box,Monthly,Box,,,
-TXN-054,27/01/2024,ACC-1002,Debit,Food,&,Dining,-89.34,5073.21,Catering,Office,Event,,
-TXN-055,28/01/2024,ACC-1003,Credit,Transfer,300,1027.92,From,Checking,Internal,Transfer,,,
-TXN-056,28/01/2024,ACC-1001,Debit,Healthcare,-67.5,3781.27,Eye,Exam,Vision,Center,,,
-TXN-057,29/01/2024,ACC-1002,Debit,Shopping,-178.9,4894.31,Sporting,Goods,Dick's,Sporting,,,
-TXN-058,29/01/2024,ACC-1003,Debit,Transportation,-15.75,1012.17,Taxi,Ride,Yellow,Cab,,,
-TXN-059,30/01/2024,ACC-1001,Debit,Food,&,Dining,-56.78,3724.49,Pizza,Delivery,Domino's,,
-TXN-060,30/01/2024,ACC-1002,Credit,Interest,25.67,4919.98,Checking,Interest,Bank,,,,
-TXN-061,31/01/2024,ACC-1003,Debit,Utilities,-234.56,777.61,Cable,Bill,Time,Warner,,,
-TXN-062,31/01/2024,ACC-1001,Debit,Entertainment,-99.99,3624.5,Theater,Tickets,Broadway,,,,
-TXN-063,01/02/2024,ACC-1002,Credit,Salary,5000,9919.98,Monthly,Salary,Direct,Deposit,,,
-TXN-064,01/02/2024,ACC-1003,Debit,Shopping,-145.78,631.83,Pet,Store,Petco,,,,
-TXN-065,02/02/2024,ACC-1001,Debit,Food,&,Dining,-78.9,3545.6,Brunch,Local,Diner,,
-TXN-066,02/02/2024,ACC-1002,Debit,Transportation,-89.45,9830.53,Train,Ticket,Amtrak,,,,
-TXN-067,03/02/2024,ACC-1003,Debit,Healthcare,-345.67,286.16,Emergency,Room,Hospital,,,,
-TXN-068,03/02/2024,ACC-1001,Credit,Refund,23.45,3569.05,Online,Return,Amazon,,,,
-TXN-069,04/02/2024,ACC-1002,Debit,Utilities,-167.89,9662.64,Electric,Bill,ConEd,,,,
-TXN-070,04/02/2024,ACC-1003,Credit,Transfer,1000,1286.16,Emergency,Fund,Savings,Transfer,,,
-TXN-071,05/02/2024,ACC-1001,Debit,Entertainment,-134.56,3434.49,Video,Games,GameStop,,,,
-TXN-072,05/02/2024,ACC-1002,Debit,Food,&,Dining,-234.78,9427.86,Anniversary,Dinner,Fine,Restaurant,
-TXN-073,06/02/2024,ACC-1003,Debit,Shopping,-78.9,1207.26,Jewelry,Store,Kay,Jewelers,,,
-TXN-074,06/02/2024,ACC-1001,Debit,Transportation,-45.67,3388.82,Airport,Parking,JFK,Airport,,,
-TXN-075,07/02/2024,ACC-1002,Debit,Healthcare,-89.99,9337.87,Prescription,Pharmacy,,,,,
-TXN-076,07/02/2024,ACC-1003,Debit,Utilities,-123.45,1083.81,Internet,Upgrade,Comcast,,,,
-TXN-077,08/02/2024,ACC-1001,Debit,Food,&,Dining,-67.89,3320.93,Coffee,Meeting,Local,Cafe,
-TXN-078,08/02/2024,ACC-1002,Credit,Bonus,500,9837.87,Referral,Bonus,Company,,,,
-TXN-079,09/02/2024,ACC-1003,Debit,Entertainment,-199.99,883.82,Concert,Tickets,Arena,,,,
-TXN-080,09/02/2024,ACC-1001,Debit,Shopping,-345.67,2975.26,Home,Electronics,Best,Buy,,,
-TXN-081,10/02/2024,ACC-1002,Debit,Transportation,-156.78,9681.09,Flight,Ticket,Airline,,,,
-TXN-082,10/02/2024,ACC-1003,Debit,Food,&,Dining,-89.45,794.37,Hotel,Restaurant,Marriott,,
-TXN-083,11/02/2024,ACC-1001,Credit,Interest,12.75,2988.01,Monthly,Interest,Bank,,,,
-TXN-084,11/02/2024,ACC-1002,Debit,Healthcare,-234.56,9446.53,Specialist,Visit,Medical,Center,,,
-TXN-085,12/02/2024,ACC-1003,Debit,Shopping,-167.89,626.48,Department,Store,Nordstrom,,,,
-TXN-086,12/02/2024,ACC-1001,Debit,Utilities,-78.9,2909.11,Phone,Bill,AT&T,,,,
-TXN-087,13/02/2024,ACC-1002,Debit,Entertainment,-345.67,9100.86,Vacation,Activities,Travel,,,,
-TXN-088,13/02/2024,ACC-1003,Debit,Transportation,-45.67,580.81,Rental,Car,Hertz,,,,
-TXN-089,14/02/2024,ACC-1001,Debit,Food,&,Dining,-123.45,2785.66,Valentine's,Dinner,Restaurant,,
-TXN-090,14/02/2024,ACC-1002,Credit,Gift,200,9300.86,Valentine's,Gift,Personal,,,,
-TXN-091,15/02/2024,ACC-1003,Debit,Shopping,-234.56,346.25,Gift,Shop,Hotel,Shop,,,
-TXN-092,15/02/2024,ACC-1001,Debit,Healthcare,-89.99,2695.67,Travel,Insurance,Insurance,Company,,,
-TXN-093,16/02/2024,ACC-1002,Debit,Transportation,-267.89,9032.97,Return,Flight,Airline,,,,
-TXN-094,16/02/2024,ACC-1003,Credit,Transfer,500,846.25,Travel,Refund,Checking,Transfer,,,
-TXN-095,17/02/2024,ACC-1001,Debit,Food,&,Dining,-56.78,2638.89,Airport,Food,Terminal,Restaurant,
-TXN-096,17/02/2024,ACC-1002,Debit,Entertainment,-89.45,8943.52,Airport,Lounge,Premium,Lounge,,,
-TXN-097,18/02/2024,ACC-1003,Debit,Shopping,-145.67,700.58,Duty,Free,Airport,Shop,,,
-TXN-098,18/02/2024,ACC-1001,Debit,Transportation,-34.5,2604.39,Taxi,Home,Airport,Taxi,,,
-TXN-099,19/02/2024,ACC-1002,Debit,Utilities,-178.9,8764.62,Catch-up,Bills,Utility,Company,,,
-TXN-100,19/02/2024,ACC-1003,Debit,Food,&,Dining,-67.89,632.69,Welcome,Home,Dinner,Local,Restaurant
+﻿transaction_id,date,account_id,transaction_type,category,amount,balance,description,location
+TXN-001,2024-01-01,ACC-1001,Debit,Food & Dining,-45.67,2954.33,Restaurant Purchase,New York
+TXN-002,2024-01-01,ACC-1002,Credit,Salary,5000.00,7500.00,Monthly Salary,Direct Deposit
+TXN-003,2024-01-02,ACC-1001,Debit,Transportation,-12.50,2941.83,Metro Card,New York
+TXN-004,2024-01-02,ACC-1003,Debit,Shopping,-89.99,1510.01,Online Purchase,Amazon
+TXN-005,2024-01-03,ACC-1001,Credit,Transfer,1000.00,3941.83,From Savings,Internal Transfer
+TXN-006,2024-01-03,ACC-1002,Debit,Utilities,-125.45,7374.55,Electric Bill,ConEd
+TXN-007,2024-01-04,ACC-1003,Debit,Healthcare,-250.00,1260.01,Doctor Visit,Medical Center
+TXN-008,2024-01-04,ACC-1001,Debit,Entertainment,-35.00,3906.83,Movie Tickets,AMC Theater
+TXN-009,2024-01-05,ACC-1002,Debit,Rent,-1800.00,5574.55,Monthly Rent,Property Management
+TXN-010,2024-01-05,ACC-1003,Credit,Refund,25.99,1286.00,Return Purchase,Best Buy
+TXN-011,2024-01-06,ACC-1001,Debit,Food & Dining,-28.75,3878.08,Coffee Shop,Starbucks
+TXN-012,2024-01-06,ACC-1002,Debit,Transportation,-45.00,5529.55,Gas Station,Shell
+TXN-013,2024-01-07,ACC-1003,Debit,Shopping,-156.78,1129.22,Department Store,Macy's
+TXN-014,2024-01-07,ACC-1001,Credit,Interest,15.50,3893.58,Monthly Interest,Bank
+TXN-015,2024-01-08,ACC-1002,Debit,Food & Dining,-67.89,5461.66,Grocery Store,Whole Foods
+TXN-016,2024-01-08,ACC-1003,Debit,Utilities,-89.45,1039.77,Internet Bill,Comcast
+TXN-017,2024-01-09,ACC-1001,Debit,Entertainment,-22.50,3871.08,Streaming Service,Netflix
+TXN-018,2024-01-09,ACC-1002,Debit,Healthcare,-45.00,5416.66,Pharmacy,CVS
+TXN-019,2024-01-10,ACC-1003,Credit,Transfer,500.00,1539.77,From Checking,Internal Transfer
+TXN-020,2024-01-10,ACC-1001,Debit,Transportation,-8.75,3862.33,Bus Fare,MTA
+TXN-021,2024-01-11,ACC-1002,Debit,Shopping,-234.56,5182.10,Electronics Store,Best Buy
+TXN-022,2024-01-11,ACC-1003,Debit,Food & Dining,-42.33,1497.44,Restaurant,Italian Bistro
+TXN-023,2024-01-12,ACC-1001,Debit,Utilities,-78.90,3783.43,Phone Bill,Verizon
+TXN-024,2024-01-12,ACC-1002,Credit,Bonus,1000.00,6182.10,Performance Bonus,Company
+TXN-025,2024-01-13,ACC-1003,Debit,Entertainment,-15.99,1481.45,Movie Rental,Apple TV
+TXN-026,2024-01-13,ACC-1001,Debit,Food & Dining,-56.78,3726.65,Lunch Meeting,Business Expense
+TXN-027,2024-01-14,ACC-1002,Debit,Healthcare,-120.00,6062.10,Dentist Visit,Dental Care
+TXN-028,2024-01-14,ACC-1003,Debit,Shopping,-78.90,1402.55,Clothing Store,Gap
+TXN-029,2024-01-15,ACC-1001,Credit,Refund,34.50,3761.15,Restaurant Refund,Credit Card
+TXN-030,2024-01-15,ACC-1002,Debit,Transportation,-65.00,5997.10,Car Maintenance,Auto Shop
+TXN-031,2024-01-16,ACC-1003,Debit,Utilities,-145.67,1256.88,Gas Bill,National Grid
+TXN-032,2024-01-16,ACC-1001,Debit,Entertainment,-89.99,3671.16,Concert Tickets,Ticketmaster
+TXN-033,2024-01-17,ACC-1002,Debit,Food & Dining,-123.45,5873.65,Fine Dining,Steakhouse
+TXN-034,2024-01-17,ACC-1003,Credit,Interest,8.75,1265.63,Savings Interest,Bank
+TXN-035,2024-01-18,ACC-1001,Debit,Shopping,-267.89,3403.27,Home Improvement,Home Depot
+TXN-036,2024-01-18,ACC-1002,Debit,Healthcare,-75.00,5798.65,Physical Therapy,Therapy Center
+TXN-037,2024-01-19,ACC-1003,Debit,Transportation,-25.50,1240.13,Uber Ride,Uber
+TXN-038,2024-01-19,ACC-1001,Debit,Food & Dining,-38.90,3364.37,Fast Food,McDonald's
+TXN-039,2024-01-20,ACC-1002,Debit,Entertainment,-199.99,5598.66,Sports Event,Madison Square Garden
+TXN-040,2024-01-20,ACC-1003,Debit,Shopping,-89.76,1150.37,Bookstore,Barnes & Noble
+TXN-041,2024-01-21,ACC-1001,Credit,Transfer,800.00,4164.37,From Savings,Internal Transfer
+TXN-042,2024-01-21,ACC-1002,Debit,Utilities,-156.78,5441.88,Water Bill,Water Company
+TXN-043,2024-01-22,ACC-1003,Debit,Food & Dining,-67.89,1082.48,Bakery,Local Bakery
+TXN-044,2024-01-22,ACC-1001,Debit,Transportation,-45.60,4118.77,Parking Fee,City Parking
+TXN-045,2024-01-23,ACC-1002,Debit,Healthcare,-200.00,5241.88,Specialist Visit,Medical Group
+TXN-046,2024-01-23,ACC-1003,Debit,Entertainment,-29.99,1052.49,Gaming Subscription,PlayStation
+TXN-047,2024-01-24,ACC-1001,Debit,Shopping,-134.56,3984.21,Pharmacy,Walgreens
+TXN-048,2024-01-24,ACC-1002,Credit,Cashback,45.67,5287.55,Credit Card Cashback,Chase
+TXN-049,2024-01-25,ACC-1003,Debit,Food & Dining,-78.90,973.59,Sushi Restaurant,Sushi Bar
+TXN-050,2024-01-25,ACC-1001,Debit,Utilities,-89.45,3894.76,Trash Service,Waste Management
+TXN-051,2024-01-26,ACC-1002,Debit,Transportation,-125.00,5162.55,Car Insurance,State Farm
+TXN-052,2024-01-26,ACC-1003,Debit,Shopping,-245.67,727.92,Furniture Store,IKEA
+TXN-053,2024-01-27,ACC-1001,Debit,Entertainment,-45.99,3848.77,Subscription Box,Monthly Box
+TXN-054,2024-01-27,ACC-1002,Debit,Food & Dining,-89.34,5073.21,Catering,Office Event
+TXN-055,2024-01-28,ACC-1003,Credit,Transfer,300.00,1027.92,From Checking,Internal Transfer
+TXN-056,2024-01-28,ACC-1001,Debit,Healthcare,-67.50,3781.27,Eye Exam,Vision Center
+TXN-057,2024-01-29,ACC-1002,Debit,Shopping,-178.90,4894.31,Sporting Goods,Dick's Sporting
+TXN-058,2024-01-29,ACC-1003,Debit,Transportation,-15.75,1012.17,Taxi Ride,Yellow Cab
+TXN-059,2024-01-30,ACC-1001,Debit,Food & Dining,-56.78,3724.49,Pizza Delivery,Domino's
+TXN-060,2024-01-30,ACC-1002,Credit,Interest,25.67,4919.98,Checking Interest,Bank
+TXN-061,2024-01-31,ACC-1003,Debit,Utilities,-234.56,777.61,Cable Bill,Time Warner
+TXN-062,2024-01-31,ACC-1001,Debit,Entertainment,-99.99,3624.50,Theater Tickets,Broadway
+TXN-063,2024-02-01,ACC-1002,Credit,Salary,5000.00,9919.98,Monthly Salary,Direct Deposit
+TXN-064,2024-02-01,ACC-1003,Debit,Shopping,-145.78,631.83,Pet Store,Petco
+TXN-065,2024-02-02,ACC-1001,Debit,Food & Dining,-78.90,3545.60,Brunch,Local Diner
+TXN-066,2024-02-02,ACC-1002,Debit,Transportation,-89.45,9830.53,Train Ticket,Amtrak
+TXN-067,2024-02-03,ACC-1003,Debit,Healthcare,-345.67,286.16,Emergency Room,Hospital
+TXN-068,2024-02-03,ACC-1001,Credit,Refund,23.45,3569.05,Online Return,Amazon
+TXN-069,2024-02-04,ACC-1002,Debit,Utilities,-167.89,9662.64,Electric Bill,ConEd
+TXN-070,2024-02-04,ACC-1003,Credit,Transfer,1000.00,1286.16,Emergency Fund,Savings Transfer
+TXN-071,2024-02-05,ACC-1001,Debit,Entertainment,-134.56,3434.49,Video Games,GameStop
+TXN-072,2024-02-05,ACC-1002,Debit,Food & Dining,-234.78,9427.86,Anniversary Dinner,Fine Restaurant
+TXN-073,2024-02-06,ACC-1003,Debit,Shopping,-78.90,1207.26,Jewelry Store,Kay Jewelers
+TXN-074,2024-02-06,ACC-1001,Debit,Transportation,-45.67,3388.82,Airport Parking,JFK Airport
+TXN-075,2024-02-07,ACC-1002,Debit,Healthcare,-89.99,9337.87,Prescription,Pharmacy
+TXN-076,2024-02-07,ACC-1003,Debit,Utilities,-123.45,1083.81,Internet Upgrade,Comcast
+TXN-077,2024-02-08,ACC-1001,Debit,Food & Dining,-67.89,3320.93,Coffee Meeting,Local Cafe
+TXN-078,2024-02-08,ACC-1002,Credit,Bonus,500.00,9837.87,Referral Bonus,Company
+TXN-079,2024-02-09,ACC-1003,Debit,Entertainment,-199.99,883.82,Concert Tickets,Arena
+TXN-080,2024-02-09,ACC-1001,Debit,Shopping,-345.67,2975.26,Home Electronics,Best Buy
+TXN-081,2024-02-10,ACC-1002,Debit,Transportation,-156.78,9681.09,Flight Ticket,Airline
+TXN-082,2024-02-10,ACC-1003,Debit,Food & Dining,-89.45,794.37,Hotel Restaurant,Marriott
+TXN-083,2024-02-11,ACC-1001,Credit,Interest,12.75,2988.01,Monthly Interest,Bank
+TXN-084,2024-02-11,ACC-1002,Debit,Healthcare,-234.56,9446.53,Specialist Visit,Medical Center
+TXN-085,2024-02-12,ACC-1003,Debit,Shopping,-167.89,626.48,Department Store,Nordstrom
+TXN-086,2024-02-12,ACC-1001,Debit,Utilities,-78.90,2909.11,Phone Bill,AT&T
+TXN-087,2024-02-13,ACC-1002,Debit,Entertainment,-345.67,9100.86,Vacation Activities,Travel
+TXN-088,2024-02-13,ACC-1003,Debit,Transportation,-45.67,580.81,Rental Car,Hertz
+TXN-089,2024-02-14,ACC-1001,Debit,Food & Dining,-123.45,2785.66,Valentine's Dinner,Restaurant
+TXN-090,2024-02-14,ACC-1002,Credit,Gift,200.00,9300.86,Valentine's Gift,Personal
+TXN-091,2024-02-15,ACC-1003,Debit,Shopping,-234.56,346.25,Gift Shop,Hotel Shop
+TXN-092,2024-02-15,ACC-1001,Debit,Healthcare,-89.99,2695.67,Travel Insurance,Insurance Company
+TXN-093,2024-02-16,ACC-1002,Debit,Transportation,-267.89,9032.97,Return Flight,Airline
+TXN-094,2024-02-16,ACC-1003,Credit,Transfer,500.00,846.25,Travel Refund,Checking Transfer
+TXN-095,2024-02-17,ACC-1001,Debit,Food & Dining,-56.78,2638.89,Airport Food,Terminal Restaurant
+TXN-096,2024-02-17,ACC-1002,Debit,Entertainment,-89.45,8943.52,Airport Lounge,Premium Lounge
+TXN-097,2024-02-18,ACC-1003,Debit,Shopping,-145.67,700.58,Duty Free,Airport Shop
+TXN-098,2024-02-18,ACC-1001,Debit,Transportation,-34.50,2604.39,Taxi Home,Airport Taxi
+TXN-099,2024-02-19,ACC-1002,Debit,Utilities,-178.90,8764.62,Catch-up Bills,Utility Company
+TXN-100,2024-02-19,ACC-1003,Debit,Food & Dining,-67.89,632.69,Welcome Home Dinner,Local Restaurant

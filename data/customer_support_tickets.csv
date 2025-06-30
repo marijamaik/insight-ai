@@ -1,81 +1,81 @@
-﻿ticket_id,created_date,customer_id,priority,category,subcategory,status,assigned_agent,resolution_time_hours,satisfaction_score,resolution_notes,,,,,,,
-TICK-001,15/01/2024,09:30:00,CUST-1001,High,Technical,Login,Issues,Closed,AGENT-005,2.5,4.5,Password,reset,and,2FA,setup,
-TICK-002,15/01/2024,10:15:00,CUST-1002,Medium,Billing,Payment,Failed,Closed,AGENT-003,4,4.8,Updated,payment,method,,,
-TICK-003,15/01/2024,11:00:00,CUST-1003,Low,General,Feature,Request,Open,AGENT-001,NULL,NULL,Requested,mobile,app,feature,,
-TICK-004,15/01/2024,14:20:00,CUST-1004,High,Technical,System,Error,In,Progress,AGENT-007,NULL,NULL,Investigating,database,issue,,
-TICK-005,16/01/2024,08:45:00,CUST-1005,Medium,Account,Profile,Update,Closed,AGENT-002,1.5,5,Profile,information,updated,,,
-TICK-006,16/01/2024,13:30:00,CUST-1006,High,Billing,Refund,Request,Closed,AGENT-004,6,3.5,Partial,refund,processed,,,
-TICK-007,16/01/2024,16:45:00,CUST-1007,Low,General,How-to,Question,Closed,AGENT-006,0.5,4.9,Provided,tutorial,link,,,
-TICK-008,17/01/2024,09:00:00,CUST-1008,Medium,Technical,Performance,Issue,Closed,AGENT-005,3,4.2,Optimized,user,settings,,,
-TICK-009,17/01/2024,11:30:00,CUST-1009,High,Account,Account,Locked,Closed,AGENT-001,1,4.7,Account,unlocked,successfully,,,
-TICK-010,17/01/2024,15:15:00,CUST-1010,Medium,Billing,Invoice,Question,Open,AGENT-003,NULL,NULL,Clarifying,billing,cycle,,,
-TICK-011,18/01/2024,10:20:00,CUST-1011,Low,Technical,Browser,Compatibility,Closed,AGENT-008,2,4.6,Recommended,browser,update,,,
-TICK-012,18/01/2024,14:30:00,CUST-1012,High,Account,Data,Recovery,Closed,AGENT-002,8,4.1,Recovered,deleted,files,,,
-TICK-013,18/01/2024,16:00:00,CUST-1013,Medium,General,Product,Information,Closed,AGENT-006,1,4.8,Provided,product,details,,,
-TICK-014,19/01/2024,09:15:00,CUST-1014,High,Technical,API,Error,In,Progress,AGENT-007,NULL,NULL,Working,with,dev,team,
-TICK-015,19/01/2024,11:45:00,CUST-1015,Low,Billing,Subscription,Change,Closed,AGENT-004,3.5,4.4,Plan,downgraded,successfully,,,
-TICK-016,19/01/2024,13:20:00,CUST-1016,Medium,Account,Permission,Issues,Closed,AGENT-001,2.5,4.7,Updated,user,permissions,,,
-TICK-017,20/01/2024,08:30:00,CUST-1017,High,Technical,Data,Sync,Issue,Closed,AGENT-005,5.5,3.8,Manual,sync,performed,,
-TICK-018,20/01/2024,10:45:00,CUST-1018,Low,General,Training,Request,Open,AGENT-006,NULL,NULL,Scheduling,training,session,,,
-TICK-019,20/01/2024,14:15:00,CUST-1019,Medium,Billing,Discount,Application,Closed,AGENT-003,2,4.9,Student,discount,applied,,,
-TICK-020,21/01/2024,09:00:00,CUST-1020,High,Account,Security,Concern,Closed,AGENT-002,4,4.3,Security,settings,updated,,,
-TICK-021,21/01/2024,11:30:00,CUST-1021,Medium,Technical,Mobile,App,Bug,In,Progress,AGENT-008,NULL,NULL,Bug,report,submitted,
-TICK-022,21/01/2024,15:45:00,CUST-1022,Low,General,Documentation,Request,Closed,AGENT-006,0.5,5,Shared,API,documentation,,,
-TICK-023,22/01/2024,08:15:00,CUST-1023,High,Billing,Overcharge,Dispute,Closed,AGENT-004,7,3.2,Partial,refund,issued,,,
-TICK-024,22/01/2024,10:30:00,CUST-1024,Medium,Account,Email,Change,Closed,AGENT-001,1.5,4.8,Email,address,updated,,,
-TICK-025,22/01/2024,13:00:00,CUST-1025,Low,Technical,Performance,Question,Closed,AGENT-005,1,4.6,Performance,tips,provided,,,
-TICK-026,23/01/2024,09:45:00,CUST-1026,High,Technical,Integration,Issue,Open,AGENT-007,NULL,NULL,Testing,integration,fixes,,,
-TICK-027,23/01/2024,11:15:00,CUST-1027,Medium,General,Feature,Explanation,Closed,AGENT-006,2,4.5,Feature,demo,provided,,,
-TICK-028,23/01/2024,14:30:00,CUST-1028,Low,Billing,Receipt,Request,Closed,AGENT-003,0.5,4.9,Receipt,sent,via,email,,
-TICK-029,24/01/2024,08:45:00,CUST-1029,High,Account,Account,Migration,Closed,AGENT-002,6.5,4,Account,successfully,migrated,,,
-TICK-030,24/01/2024,10:20:00,CUST-1030,Medium,Technical,Export,Issue,Closed,AGENT-008,3,4.4,Export,functionality,fixed,,,
-TICK-031,24/01/2024,15:00:00,CUST-1031,Low,General,Pricing,Question,Closed,AGENT-006,1,4.7,Pricing,tiers,explained,,,
-TICK-032,25/01/2024,09:30:00,CUST-1032,High,Technical,Database,Error,In,Progress,AGENT-007,NULL,NULL,Database,maintenance,scheduled,,
-TICK-033,25/01/2024,11:45:00,CUST-1033,Medium,Billing,Payment,Method,Update,Closed,AGENT-004,2.5,4.6,Credit,card,updated,,
-TICK-034,25/01/2024,13:15:00,CUST-1034,Low,Account,Profile,Picture,Change,Closed,AGENT-001,0.5,4.8,Profile,picture,updated,,
-TICK-035,26/01/2024,08:00:00,CUST-1035,High,Technical,Server,Timeout,Closed,AGENT-005,4.5,3.9,Server,configuration,optimized,,,
-TICK-036,26/01/2024,10:30:00,CUST-1036,Medium,General,Competition,Question,Closed,AGENT-006,1.5,4.3,Competitive,analysis,provided,,,
-TICK-037,26/01/2024,14:45:00,CUST-1037,Low,Billing,Tax,Question,Closed,AGENT-003,2,4.5,Tax,information,clarified,,,
-TICK-038,27/01/2024,09:15:00,CUST-1038,High,Account,Data,Export,Request,Closed,AGENT-002,5,4.2,Data,export,completed,,
-TICK-039,27/01/2024,11:00:00,CUST-1039,Medium,Technical,Notification,Issue,Closed,AGENT-008,2.5,4.7,Notification,settings,fixed,,,
-TICK-040,27/01/2024,15:30:00,CUST-1040,Low,General,Best,Practices,Open,AGENT-006,NULL,NULL,Preparing,best,practices,guide,,
-TICK-041,28/01/2024,08:45:00,CUST-1001,High,Technical,Connection,Error,Closed,AGENT-007,3.5,4.1,Network,configuration,updated,,,
-TICK-042,28/01/2024,10:15:00,CUST-1002,Medium,Billing,Upgrade,Request,Closed,AGENT-004,1.5,4.8,Plan,upgraded,successfully,,,
-TICK-043,28/01/2024,13:30:00,CUST-1003,Low,Account,Username,Change,Closed,AGENT-001,1,4.9,Username,updated,successfully,,,
-TICK-044,29/01/2024,09:00:00,CUST-1004,High,Technical,Memory,Leak,In,Progress,AGENT-005,NULL,NULL,Investigating,memory,usage,,
-TICK-045,29/01/2024,11:30:00,CUST-1005,Medium,General,Onboarding,Help,Closed,AGENT-006,3,4.6,Onboarding,session,completed,,,
-TICK-046,29/01/2024,14:15:00,CUST-1006,Low,Billing,Promo,Code,Issue,Closed,AGENT-003,1.5,4.7,Promo,code,applied,manually,
-TICK-047,30/01/2024,08:30:00,CUST-1007,High,Account,Compliance,Question,Closed,AGENT-002,4,4.4,Compliance,documentation,provided,,,
-TICK-048,30/01/2024,10:45:00,CUST-1008,Medium,Technical,Slow,Loading,Closed,AGENT-008,2.5,4.3,Cache,optimization,performed,,,
-TICK-049,30/01/2024,13:00:00,CUST-1009,Low,General,Keyboard,Shortcuts,Closed,AGENT-006,0.5,5,Shortcuts,guide,provided,,,
-TICK-050,31/01/2024,09:15:00,CUST-1010,High,Technical,Data,Corruption,Open,AGENT-007,NULL,NULL,Data,recovery,in,progress,,
-TICK-051,31/01/2024,11:45:00,CUST-1011,Medium,Billing,Cancellation,Request,Closed,AGENT-004,2,3.1,Account,cancelled,per,request,,
-TICK-052,31/01/2024,14:30:00,CUST-1012,Low,Account,Language,Settings,Closed,AGENT-001,1,4.8,Language,changed,to,Spanish,,
-TICK-053,01/02/2024,08:00:00,CUST-1013,High,Technical,SSL,Certificate,Error,Closed,AGENT-005,5.5,4.2,SSL,certificate,renewed,,
-TICK-054,01/02/2024,10:30:00,CUST-1014,Medium,General,Bulk,Operations,Closed,AGENT-006,2.5,4.5,Bulk,operation,tutorial,provided,,
-TICK-055,01/02/2024,13:15:00,CUST-1015,Low,Billing,Invoice,Format,Closed,AGENT-003,1,4.6,Custom,invoice,format,created,,
-TICK-056,02/02/2024,09:30:00,CUST-1016,High,Account,GDPR,Request,Closed,AGENT-002,6,4,GDPR,data,export,completed,,
-TICK-057,02/02/2024,11:00:00,CUST-1017,Medium,Technical,Widget,Error,Closed,AGENT-008,3,4.4,Widget,code,updated,,,
-TICK-058,02/02/2024,15:45:00,CUST-1018,Low,General,Release,Notes,Closed,AGENT-006,0.5,4.9,Latest,release,notes,shared,,
-TICK-059,03/02/2024,08:45:00,CUST-1019,High,Technical,Backup,Failure,In,Progress,AGENT-007,NULL,NULL,Backup,system,diagnosis,,
-TICK-060,03/02/2024,10:15:00,CUST-1020,Medium,Billing,Credit,Application,Closed,AGENT-004,3.5,4.3,Account,credit,applied,,,
-TICK-061,03/02/2024,12:30:00,CUST-1021,Low,Account,Timezone,Change,Closed,AGENT-001,0.5,4.8,Timezone,updated,to,EST,,
-TICK-062,04/02/2024,09:00:00,CUST-1022,High,Technical,Session,Timeout,Closed,AGENT-005,2,4.5,Session,timeout,extended,,,
-TICK-063,04/02/2024,11:30:00,CUST-1023,Medium,General,Workflow,Question,Closed,AGENT-006,2.5,4.6,Workflow,optimization,tips,,,
-TICK-064,04/02/2024,14:00:00,CUST-1024,Low,Billing,Payment,Schedule,Closed,AGENT-003,1.5,4.7,Payment,schedule,adjusted,,,
-TICK-065,05/02/2024,08:15:00,CUST-1025,High,Account,Role,Assignment,Closed,AGENT-002,3,4.2,Admin,role,assigned,,,
-TICK-066,05/02/2024,10:45:00,CUST-1026,Medium,Technical,File,Upload,Error,Closed,AGENT-008,4,4.1,File,size,limit,increased,
-TICK-067,05/02/2024,13:30:00,CUST-1027,Low,General,Video,Tutorial,Open,AGENT-006,NULL,NULL,Creating,custom,video,tutorial,,
-TICK-068,06/02/2024,09:30:00,CUST-1028,High,Technical,API,Rate,Limit,Closed,AGENT-007,1.5,4.6,Rate,limit,increased,for,account
-TICK-069,06/02/2024,11:15:00,CUST-1029,Medium,Billing,Multi-user,Billing,Closed,AGENT-004,4.5,4,Multi-user,plan,configured,,,
-TICK-070,06/02/2024,14:45:00,CUST-1030,Low,Account,Notification,Preferences,Closed,AGENT-001,1,4.9,Email,notifications,disabled,,,
-TICK-071,07/02/2024,08:00:00,CUST-1031,High,Technical,Third-party,Integration,In,Progress,AGENT-005,NULL,NULL,Testing,Zapier,integration,,
-TICK-072,07/02/2024,10:30:00,CUST-1032,Medium,General,Analytics,Question,Closed,AGENT-006,2,4.4,Analytics,dashboard,walkthrough,,,
-TICK-073,07/02/2024,12:15:00,CUST-1033,Low,Billing,Downgrade,Process,Closed,AGENT-003,2.5,4.3,Account,downgraded,successfully,,,
-TICK-074,08/02/2024,09:15:00,CUST-1034,High,Account,Duplicate,Account,Closed,AGENT-002,5,3.8,Duplicate,account,merged,,,
-TICK-075,08/02/2024,11:45:00,CUST-1035,Medium,Technical,Mobile,Sync,Issue,Closed,AGENT-008,3.5,4.2,Mobile,sync,reconfigured,,
-TICK-076,08/02/2024,15:00:00,CUST-1036,Low,General,Custom,Fields,Closed,AGENT-006,1.5,4.7,Custom,fields,setup,guide,,
-TICK-077,09/02/2024,08:30:00,CUST-1037,High,Technical,Database,Timeout,Closed,AGENT-007,4,4.1,Database,query,optimized,,,
-TICK-078,09/02/2024,10:00:00,CUST-1038,Medium,Billing,Enterprise,Pricing,Open,AGENT-004,NULL,NULL,Preparing,enterprise,quote,,,
-TICK-079,09/02/2024,13:45:00,CUST-1039,Low,Account,Avatar,Upload,Closed,AGENT-001,0.5,4.8,Profile,avatar,updated,,,
-TICK-080,10/02/2024,09:00:00,CUST-1040,High,Technical,Performance,Degradation,In,Progress,AGENT-005,NULL,NULL,Performance,monitoring,active,,
+﻿ticket_id,created_date,customer_id,priority,category,subcategory,status,assigned_agent,resolution_time_hours,satisfaction_score,resolution_notes
+TICK-001,2024-01-15 09:30:00,CUST-1001,High,Technical,Login Issues,Closed,AGENT-005,2.5,4.5,Password reset and 2FA setup
+TICK-002,2024-01-15 10:15:00,CUST-1002,Medium,Billing,Payment Failed,Closed,AGENT-003,4.0,4.8,Updated payment method
+TICK-003,2024-01-15 11:00:00,CUST-1003,Low,General,Feature Request,Open,AGENT-001,NULL,NULL,Requested mobile app feature
+TICK-004,2024-01-15 14:20:00,CUST-1004,High,Technical,System Error,In Progress,AGENT-007,NULL,NULL,Investigating database issue
+TICK-005,2024-01-16 08:45:00,CUST-1005,Medium,Account,Profile Update,Closed,AGENT-002,1.5,5.0,Profile information updated
+TICK-006,2024-01-16 13:30:00,CUST-1006,High,Billing,Refund Request,Closed,AGENT-004,6.0,3.5,Partial refund processed
+TICK-007,2024-01-16 16:45:00,CUST-1007,Low,General,How-to Question,Closed,AGENT-006,0.5,4.9,Provided tutorial link
+TICK-008,2024-01-17 09:00:00,CUST-1008,Medium,Technical,Performance Issue,Closed,AGENT-005,3.0,4.2,Optimized user settings
+TICK-009,2024-01-17 11:30:00,CUST-1009,High,Account,Account Locked,Closed,AGENT-001,1.0,4.7,Account unlocked successfully
+TICK-010,2024-01-17 15:15:00,CUST-1010,Medium,Billing,Invoice Question,Open,AGENT-003,NULL,NULL,Clarifying billing cycle
+TICK-011,2024-01-18 10:20:00,CUST-1011,Low,Technical,Browser Compatibility,Closed,AGENT-008,2.0,4.6,Recommended browser update
+TICK-012,2024-01-18 14:30:00,CUST-1012,High,Account,Data Recovery,Closed,AGENT-002,8.0,4.1,Recovered deleted files
+TICK-013,2024-01-18 16:00:00,CUST-1013,Medium,General,Product Information,Closed,AGENT-006,1.0,4.8,Provided product details
+TICK-014,2024-01-19 09:15:00,CUST-1014,High,Technical,API Error,In Progress,AGENT-007,NULL,NULL,Working with dev team
+TICK-015,2024-01-19 11:45:00,CUST-1015,Low,Billing,Subscription Change,Closed,AGENT-004,3.5,4.4,Plan downgraded successfully
+TICK-016,2024-01-19 13:20:00,CUST-1016,Medium,Account,Permission Issues,Closed,AGENT-001,2.5,4.7,Updated user permissions
+TICK-017,2024-01-20 08:30:00,CUST-1017,High,Technical,Data Sync Issue,Closed,AGENT-005,5.5,3.8,Manual sync performed
+TICK-018,2024-01-20 10:45:00,CUST-1018,Low,General,Training Request,Open,AGENT-006,NULL,NULL,Scheduling training session
+TICK-019,2024-01-20 14:15:00,CUST-1019,Medium,Billing,Discount Application,Closed,AGENT-003,2.0,4.9,Student discount applied
+TICK-020,2024-01-21 09:00:00,CUST-1020,High,Account,Security Concern,Closed,AGENT-002,4.0,4.3,Security settings updated
+TICK-021,2024-01-21 11:30:00,CUST-1021,Medium,Technical,Mobile App Bug,In Progress,AGENT-008,NULL,NULL,Bug report submitted
+TICK-022,2024-01-21 15:45:00,CUST-1022,Low,General,Documentation Request,Closed,AGENT-006,0.5,5.0,Shared API documentation
+TICK-023,2024-01-22 08:15:00,CUST-1023,High,Billing,Overcharge Dispute,Closed,AGENT-004,7.0,3.2,Partial refund issued
+TICK-024,2024-01-22 10:30:00,CUST-1024,Medium,Account,Email Change,Closed,AGENT-001,1.5,4.8,Email address updated
+TICK-025,2024-01-22 13:00:00,CUST-1025,Low,Technical,Performance Question,Closed,AGENT-005,1.0,4.6,Performance tips provided
+TICK-026,2024-01-23 09:45:00,CUST-1026,High,Technical,Integration Issue,Open,AGENT-007,NULL,NULL,Testing integration fixes
+TICK-027,2024-01-23 11:15:00,CUST-1027,Medium,General,Feature Explanation,Closed,AGENT-006,2.0,4.5,Feature demo provided
+TICK-028,2024-01-23 14:30:00,CUST-1028,Low,Billing,Receipt Request,Closed,AGENT-003,0.5,4.9,Receipt sent via email
+TICK-029,2024-01-24 08:45:00,CUST-1029,High,Account,Account Migration,Closed,AGENT-002,6.5,4.0,Account successfully migrated
+TICK-030,2024-01-24 10:20:00,CUST-1030,Medium,Technical,Export Issue,Closed,AGENT-008,3.0,4.4,Export functionality fixed
+TICK-031,2024-01-24 15:00:00,CUST-1031,Low,General,Pricing Question,Closed,AGENT-006,1.0,4.7,Pricing tiers explained
+TICK-032,2024-01-25 09:30:00,CUST-1032,High,Technical,Database Error,In Progress,AGENT-007,NULL,NULL,Database maintenance scheduled
+TICK-033,2024-01-25 11:45:00,CUST-1033,Medium,Billing,Payment Method Update,Closed,AGENT-004,2.5,4.6,Credit card updated
+TICK-034,2024-01-25 13:15:00,CUST-1034,Low,Account,Profile Picture Change,Closed,AGENT-001,0.5,4.8,Profile picture updated
+TICK-035,2024-01-26 08:00:00,CUST-1035,High,Technical,Server Timeout,Closed,AGENT-005,4.5,3.9,Server configuration optimized
+TICK-036,2024-01-26 10:30:00,CUST-1036,Medium,General,Competition Question,Closed,AGENT-006,1.5,4.3,Competitive analysis provided
+TICK-037,2024-01-26 14:45:00,CUST-1037,Low,Billing,Tax Question,Closed,AGENT-003,2.0,4.5,Tax information clarified
+TICK-038,2024-01-27 09:15:00,CUST-1038,High,Account,Data Export Request,Closed,AGENT-002,5.0,4.2,Data export completed
+TICK-039,2024-01-27 11:00:00,CUST-1039,Medium,Technical,Notification Issue,Closed,AGENT-008,2.5,4.7,Notification settings fixed
+TICK-040,2024-01-27 15:30:00,CUST-1040,Low,General,Best Practices,Open,AGENT-006,NULL,NULL,Preparing best practices guide
+TICK-041,2024-01-28 08:45:00,CUST-1001,High,Technical,Connection Error,Closed,AGENT-007,3.5,4.1,Network configuration updated
+TICK-042,2024-01-28 10:15:00,CUST-1002,Medium,Billing,Upgrade Request,Closed,AGENT-004,1.5,4.8,Plan upgraded successfully
+TICK-043,2024-01-28 13:30:00,CUST-1003,Low,Account,Username Change,Closed,AGENT-001,1.0,4.9,Username updated successfully
+TICK-044,2024-01-29 09:00:00,CUST-1004,High,Technical,Memory Leak,In Progress,AGENT-005,NULL,NULL,Investigating memory usage
+TICK-045,2024-01-29 11:30:00,CUST-1005,Medium,General,Onboarding Help,Closed,AGENT-006,3.0,4.6,Onboarding session completed
+TICK-046,2024-01-29 14:15:00,CUST-1006,Low,Billing,Promo Code Issue,Closed,AGENT-003,1.5,4.7,Promo code applied manually
+TICK-047,2024-01-30 08:30:00,CUST-1007,High,Account,Compliance Question,Closed,AGENT-002,4.0,4.4,Compliance documentation provided
+TICK-048,2024-01-30 10:45:00,CUST-1008,Medium,Technical,Slow Loading,Closed,AGENT-008,2.5,4.3,Cache optimization performed
+TICK-049,2024-01-30 13:00:00,CUST-1009,Low,General,Keyboard Shortcuts,Closed,AGENT-006,0.5,5.0,Shortcuts guide provided
+TICK-050,2024-01-31 09:15:00,CUST-1010,High,Technical,Data Corruption,Open,AGENT-007,NULL,NULL,Data recovery in progress
+TICK-051,2024-01-31 11:45:00,CUST-1011,Medium,Billing,Cancellation Request,Closed,AGENT-004,2.0,3.1,Account cancelled per request
+TICK-052,2024-01-31 14:30:00,CUST-1012,Low,Account,Language Settings,Closed,AGENT-001,1.0,4.8,Language changed to Spanish
+TICK-053,2024-02-01 08:00:00,CUST-1013,High,Technical,SSL Certificate Error,Closed,AGENT-005,5.5,4.2,SSL certificate renewed
+TICK-054,2024-02-01 10:30:00,CUST-1014,Medium,General,Bulk Operations,Closed,AGENT-006,2.5,4.5,Bulk operation tutorial provided
+TICK-055,2024-02-01 13:15:00,CUST-1015,Low,Billing,Invoice Format,Closed,AGENT-003,1.0,4.6,Custom invoice format created
+TICK-056,2024-02-02 09:30:00,CUST-1016,High,Account,GDPR Request,Closed,AGENT-002,6.0,4.0,GDPR data export completed
+TICK-057,2024-02-02 11:00:00,CUST-1017,Medium,Technical,Widget Error,Closed,AGENT-008,3.0,4.4,Widget code updated
+TICK-058,2024-02-02 15:45:00,CUST-1018,Low,General,Release Notes,Closed,AGENT-006,0.5,4.9,Latest release notes shared
+TICK-059,2024-02-03 08:45:00,CUST-1019,High,Technical,Backup Failure,In Progress,AGENT-007,NULL,NULL,Backup system diagnosis
+TICK-060,2024-02-03 10:15:00,CUST-1020,Medium,Billing,Credit Application,Closed,AGENT-004,3.5,4.3,Account credit applied
+TICK-061,2024-02-03 12:30:00,CUST-1021,Low,Account,Timezone Change,Closed,AGENT-001,0.5,4.8,Timezone updated to EST
+TICK-062,2024-02-04 09:00:00,CUST-1022,High,Technical,Session Timeout,Closed,AGENT-005,2.0,4.5,Session timeout extended
+TICK-063,2024-02-04 11:30:00,CUST-1023,Medium,General,Workflow Question,Closed,AGENT-006,2.5,4.6,Workflow optimization tips
+TICK-064,2024-02-04 14:00:00,CUST-1024,Low,Billing,Payment Schedule,Closed,AGENT-003,1.5,4.7,Payment schedule adjusted
+TICK-065,2024-02-05 08:15:00,CUST-1025,High,Account,Role Assignment,Closed,AGENT-002,3.0,4.2,Admin role assigned
+TICK-066,2024-02-05 10:45:00,CUST-1026,Medium,Technical,File Upload Error,Closed,AGENT-008,4.0,4.1,File size limit increased
+TICK-067,2024-02-05 13:30:00,CUST-1027,Low,General,Video Tutorial,Open,AGENT-006,NULL,NULL,Creating custom video tutorial
+TICK-068,2024-02-06 09:30:00,CUST-1028,High,Technical,API Rate Limit,Closed,AGENT-007,1.5,4.6,Rate limit increased for account
+TICK-069,2024-02-06 11:15:00,CUST-1029,Medium,Billing,Multi-user Billing,Closed,AGENT-004,4.5,4.0,Multi-user plan configured
+TICK-070,2024-02-06 14:45:00,CUST-1030,Low,Account,Notification Preferences,Closed,AGENT-001,1.0,4.9,Email notifications disabled
+TICK-071,2024-02-07 08:00:00,CUST-1031,High,Technical,Third-party Integration,In Progress,AGENT-005,NULL,NULL,Testing Zapier integration
+TICK-072,2024-02-07 10:30:00,CUST-1032,Medium,General,Analytics Question,Closed,AGENT-006,2.0,4.4,Analytics dashboard walkthrough
+TICK-073,2024-02-07 12:15:00,CUST-1033,Low,Billing,Downgrade Process,Closed,AGENT-003,2.5,4.3,Account downgraded successfully
+TICK-074,2024-02-08 09:15:00,CUST-1034,High,Account,Duplicate Account,Closed,AGENT-002,5.0,3.8,Duplicate account merged
+TICK-075,2024-02-08 11:45:00,CUST-1035,Medium,Technical,Mobile Sync Issue,Closed,AGENT-008,3.5,4.2,Mobile sync reconfigured
+TICK-076,2024-02-08 15:00:00,CUST-1036,Low,General,Custom Fields,Closed,AGENT-006,1.5,4.7,Custom fields setup guide
+TICK-077,2024-02-09 08:30:00,CUST-1037,High,Technical,Database Timeout,Closed,AGENT-007,4.0,4.1,Database query optimized
+TICK-078,2024-02-09 10:00:00,CUST-1038,Medium,Billing,Enterprise Pricing,Open,AGENT-004,NULL,NULL,Preparing enterprise quote
+TICK-079,2024-02-09 13:45:00,CUST-1039,Low,Account,Avatar Upload,Closed,AGENT-001,0.5,4.8,Profile avatar updated
+TICK-080,2024-02-10 09:00:00,CUST-1040,High,Technical,Performance Degradation,In Progress,AGENT-005,NULL,NULL,Performance monitoring active

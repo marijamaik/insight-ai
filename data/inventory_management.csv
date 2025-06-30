@@ -1,76 +1,76 @@
-﻿product_id,product_name,category,supplier,current_stock,reorder_level,max_stock,cost_per_unit,selling_price,last_restock_date,units_sold_month,warehouse_location,,
-PROD-001,Wireless,Mouse,Electronics,TechCorp,150,50,300,25,49.99,10/01/2024,85,Warehouse-A,
-PROD-002,Office,Chair,Furniture,ComfortPlus,45,20,100,120,249.99,08/01/2024,12,Warehouse-B,
-PROD-003,Notebook,Set,Stationery,PaperWorks,300,100,500,3.5,12.99,12/01/2024,180,Warehouse-A,
-PROD-004,Coffee,Beans,Food,BrewMaster,80,30,200,8,24.99,15/01/2024,65,Warehouse-C,
-PROD-005,USB,Cable,Electronics,TechCorp,200,75,400,5,15.99,11/01/2024,120,Warehouse-A,
-PROD-006,Desk,Lamp,Furniture,LightCo,25,15,60,35,79.99,09/01/2024,8,Warehouse-B,
-PROD-007,Printer,Paper,Stationery,PaperWorks,400,150,800,15,29.99,14/01/2024,220,Warehouse-A,
-PROD-008,Energy,Drink,Food,VitalBoost,180,60,300,2.5,4.99,13/01/2024,145,Warehouse-C,
-PROD-009,Webcam,Electronics,TechCorp,35,20,80,45,99.99,07/01/2024,18,Warehouse-A,,
-PROD-010,Ergonomic,Keyboard,Electronics,ErgoTech,60,25,120,55,129.99,06/01/2024,22,Warehouse-B,
-PROD-011,Standing,Desk,Furniture,ComfortPlus,15,10,40,200,449.99,05/01/2024,5,Warehouse-B,
-PROD-012,Sticky,Notes,Stationery,PaperWorks,500,200,800,1.5,4.99,16/01/2024,350,Warehouse-A,
-PROD-013,Protein,Bar,Food,HealthySnacks,250,100,400,2,5.99,14/01/2024,180,Warehouse-C,
-PROD-014,Monitor,Stand,Electronics,TechCorp,80,30,150,18,39.99,13/01/2024,45,Warehouse-A,
-PROD-015,Bookshelf,Furniture,WoodCraft,20,8,35,85,199.99,04/01/2024,3,Warehouse-B,,
-PROD-016,Pens,Set,Stationery,PaperWorks,600,250,1000,0.75,8.99,17/01/2024,420,Warehouse-A,
-PROD-017,Granola,Bars,Food,NaturalFoods,320,120,500,1.8,3.99,15/01/2024,240,Warehouse-C,
-PROD-018,External,Hard,Drive,Electronics,DataStore,45,20,100,75,149.99,12/01/2024,28,Warehouse-A
-PROD-019,Filing,Cabinet,Furniture,OfficePro,12,5,25,150,299.99,03/01/2024,2,Warehouse-B,
-PROD-020,Highlighters,Stationery,ColorMark,400,150,600,0.9,6.99,16/01/2024,280,Warehouse-A,,
-PROD-021,Instant,Coffee,Food,QuickBrew,180,70,300,4.5,12.99,14/01/2024,125,Warehouse-C,
-PROD-022,Bluetooth,Headphones,Electronics,AudioTech,75,25,150,60,129.99,11/01/2024,35,Warehouse-A,
-PROD-023,Conference,Table,Furniture,MeetingSpace,8,3,15,800,1599.99,02/01/2024,1,Warehouse-B,
-PROD-024,Legal,Pads,Stationery,PaperWorks,350,120,600,2.25,8.99,15/01/2024,245,Warehouse-A,
-PROD-025,Trail,Mix,Food,HealthyMix,200,80,350,3.2,7.99,13/01/2024,140,Warehouse-C,
-PROD-026,Graphics,Tablet,Electronics,DesignTech,30,15,60,120,249.99,10/01/2024,12,Warehouse-A,
-PROD-027,Executive,Chair,Furniture,ComfortPlus,18,8,35,300,649.99,07/01/2024,4,Warehouse-B,
-PROD-028,Correction,Tape,Stationery,FixIt,280,100,450,1.2,3.99,16/01/2024,195,Warehouse-A,
-PROD-029,Herbal,Tea,Food,TeaTime,150,60,250,5.5,14.99,14/01/2024,95,Warehouse-C,
-PROD-030,Smartphone,Electronics,MobileTech,25,10,50,400,799.99,09/01/2024,15,Warehouse-A,,
-PROD-031,Whiteboard,Furniture,BoardCorp,40,15,75,45,99.99,11/01/2024,25,Warehouse-B,,
-PROD-032,Binders,Stationery,OfficeBind,200,80,350,4.5,12.99,15/01/2024,140,Warehouse-A,,
-PROD-033,Chocolate,Bars,Food,SweetTreats,300,120,500,1.5,3.99,13/01/2024,220,Warehouse-C,
-PROD-034,Tablet,Electronics,TabletPro,20,8,40,250,499.99,08/01/2024,12,Warehouse-A,,
-PROD-035,Adjustable,Desk,Furniture,FlexFurn,22,10,45,180,399.99,06/01/2024,8,Warehouse-B,
-PROD-036,Paper,Clips,Stationery,SmallBits,800,300,1200,0.25,2.99,17/01/2024,560,Warehouse-A,
-PROD-037,Vitamin,Water,Food,HealthDrink,120,50,200,2.8,5.99,14/01/2024,85,Warehouse-C,
-PROD-038,Wireless,Speaker,Electronics,SoundWave,55,20,100,35,79.99,12/01/2024,32,Warehouse-A,
-PROD-039,Storage,Cabinet,Furniture,StorageMax,28,12,50,120,259.99,05/01/2024,10,Warehouse-B,
-PROD-040,Staplers,Stationery,FastenIt,150,60,250,8.5,24.99,16/01/2024,105,Warehouse-A,,
-PROD-041,Nuts,Mix,Food,CrunchTime,180,70,300,4.2,9.99,13/01/2024,125,Warehouse-C,
-PROD-042,Gaming,Mouse,Electronics,GameGear,40,15,80,45,99.99,10/01/2024,25,Warehouse-A,
-PROD-043,Lounge,Chair,Furniture,RelaxFurn,15,6,30,250,549.99,04/01/2024,3,Warehouse-B,
-PROD-044,Folders,Stationery,FileOrg,300,120,500,1.8,5.99,15/01/2024,210,Warehouse-A,,
-PROD-045,Sparkling,Water,Food,BubbleWater,200,80,350,1.2,2.99,14/01/2024,140,Warehouse-C,
-PROD-046,4K,Monitor,Electronics,ViewTech,18,8,35,300,649.99,09/01/2024,10,Warehouse-A,
-PROD-047,Meeting,Chair,Furniture,ConferCorp,35,15,65,85,189.99,07/01/2024,18,Warehouse-B,
-PROD-048,Rubber,Stamps,Stationery,StampIt,120,50,200,3.5,12.99,16/01/2024,85,Warehouse-A,
-PROD-049,Dried,Fruit,Food,NatureBites,160,65,280,3.8,8.99,13/01/2024,110,Warehouse-C,
-PROD-050,Smart,Watch,Electronics,WearTech,30,12,60,180,399.99,11/01/2024,18,Warehouse-A,
-PROD-051,Storage,Ottoman,Furniture,StoreSeat,25,10,45,60,129.99,08/01/2024,12,Warehouse-B,
-PROD-052,Calculators,Electronics,MathTech,80,30,150,15,34.99,14/01/2024,55,Warehouse-A,,
-PROD-053,Juice,Boxes,Food,KidsJuice,250,100,400,1.8,4.99,15/01/2024,175,Warehouse-C,
-PROD-054,Desk,Organizer,Stationery,NeatDesk,100,40,180,12,29.99,12/01/2024,70,Warehouse-A,
-PROD-055,Side,Table,Furniture,TableCorp,30,12,55,45,99.99,06/01/2024,15,Warehouse-B,
-PROD-056,Wireless,Charger,Electronics,ChargeTech,65,25,120,20,44.99,13/01/2024,40,Warehouse-A,
-PROD-057,Crackers,Food,CrunchCorp,180,70,320,2.2,5.99,14/01/2024,125,Warehouse-C,,
-PROD-058,Label,Maker,Electronics,LabelPro,35,15,70,35,79.99,11/01/2024,22,Warehouse-A,
-PROD-059,Floor,Lamp,Furniture,LightSolutions,20,8,40,85,189.99,05/01/2024,8,Warehouse-B,
-PROD-060,Tape,Dispenser,Stationery,TapeIt,90,35,160,6.5,18.99,16/01/2024,63,Warehouse-A,
-PROD-061,Granola,Food,MorningFuel,140,55,250,3.6,8.99,13/01/2024,98,Warehouse-C,,
-PROD-062,Fitness,Tracker,Electronics,FitTech,45,18,85,80,179.99,10/01/2024,28,Warehouse-A,
-PROD-063,Coat,Rack,Furniture,HangIt,25,10,45,35,79.99,07/01/2024,12,Warehouse-B,
-PROD-064,Hole,Punch,Stationery,PunchIt,70,28,125,12.5,29.99,15/01/2024,49,Warehouse-A,
-PROD-065,Popcorn,Food,SnackTime,200,80,350,2.4,5.99,14/01/2024,140,Warehouse-C,,
-PROD-066,Action,Camera,Electronics,ActionPro,15,6,30,150,329.99,09/01/2024,8,Warehouse-A,
-PROD-067,Bar,Stool,Furniture,SitHigh,18,8,35,65,149.99,04/01/2024,6,Warehouse-B,
-PROD-068,Paper,Shredder,Electronics,ShredSafe,22,10,40,120,259.99,12/01/2024,12,Warehouse-A,
-PROD-069,Cheese,Crackers,Food,CheeseTime,160,65,280,2.8,6.99,13/01/2024,112,Warehouse-C,
-PROD-070,Document,Scanner,Electronics,ScanTech,12,5,25,200,449.99,08/01/2024,6,Warehouse-A,
-PROD-071,Desk,Pad,Stationery,DeskCover,85,35,150,8,22.99,15/01/2024,60,Warehouse-A,
-PROD-072,Plant,Stand,Furniture,GreenSupport,35,15,65,25,59.99,06/01/2024,18,Warehouse-B,
-PROD-073,Energy,Bars,Food,PowerFuel,220,90,380,2.6,6.99,14/01/2024,154,Warehouse-C,
-PROD-074,Projector,Electronics,ProjectPro,8,3,15,400,899.99,03/01/2024,3,Warehouse-A,,
-PROD-075,Magazine,Rack,Furniture,ReadOrg,28,12,50,22,49.99,07/01/2024,14,Warehouse-B,
+﻿product_id,product_name,category,supplier,current_stock,reorder_level,max_stock,cost_per_unit,selling_price,last_restock_date,units_sold_month,warehouse_location
+PROD-001,Wireless Mouse,Electronics,TechCorp,150,50,300,25.00,49.99,2024-01-10,85,Warehouse-A
+PROD-002,Office Chair,Furniture,ComfortPlus,45,20,100,120.00,249.99,2024-01-08,12,Warehouse-B
+PROD-003,Notebook Set,Stationery,PaperWorks,300,100,500,3.50,12.99,2024-01-12,180,Warehouse-A
+PROD-004,Coffee Beans,Food,BrewMaster,80,30,200,8.00,24.99,2024-01-15,65,Warehouse-C
+PROD-005,USB Cable,Electronics,TechCorp,200,75,400,5.00,15.99,2024-01-11,120,Warehouse-A
+PROD-006,Desk Lamp,Furniture,LightCo,25,15,60,35.00,79.99,2024-01-09,8,Warehouse-B
+PROD-007,Printer Paper,Stationery,PaperWorks,400,150,800,15.00,29.99,2024-01-14,220,Warehouse-A
+PROD-008,Energy Drink,Food,VitalBoost,180,60,300,2.50,4.99,2024-01-13,145,Warehouse-C
+PROD-009,Webcam,Electronics,TechCorp,35,20,80,45.00,99.99,2024-01-07,18,Warehouse-A
+PROD-010,Ergonomic Keyboard,Electronics,ErgoTech,60,25,120,55.00,129.99,2024-01-06,22,Warehouse-B
+PROD-011,Standing Desk,Furniture,ComfortPlus,15,10,40,200.00,449.99,2024-01-05,5,Warehouse-B
+PROD-012,Sticky Notes,Stationery,PaperWorks,500,200,800,1.50,4.99,2024-01-16,350,Warehouse-A
+PROD-013,Protein Bar,Food,HealthySnacks,250,100,400,2.00,5.99,2024-01-14,180,Warehouse-C
+PROD-014,Monitor Stand,Electronics,TechCorp,80,30,150,18.00,39.99,2024-01-13,45,Warehouse-A
+PROD-015,Bookshelf,Furniture,WoodCraft,20,8,35,85.00,199.99,2024-01-04,3,Warehouse-B
+PROD-016,Pens Set,Stationery,PaperWorks,600,250,1000,0.75,8.99,2024-01-17,420,Warehouse-A
+PROD-017,Granola Bars,Food,NaturalFoods,320,120,500,1.80,3.99,2024-01-15,240,Warehouse-C
+PROD-018,External Hard Drive,Electronics,DataStore,45,20,100,75.00,149.99,2024-01-12,28,Warehouse-A
+PROD-019,Filing Cabinet,Furniture,OfficePro,12,5,25,150.00,299.99,2024-01-03,2,Warehouse-B
+PROD-020,Highlighters,Stationery,ColorMark,400,150,600,0.90,6.99,2024-01-16,280,Warehouse-A
+PROD-021,Instant Coffee,Food,QuickBrew,180,70,300,4.50,12.99,2024-01-14,125,Warehouse-C
+PROD-022,Bluetooth Headphones,Electronics,AudioTech,75,25,150,60.00,129.99,2024-01-11,35,Warehouse-A
+PROD-023,Conference Table,Furniture,MeetingSpace,8,3,15,800.00,1599.99,2024-01-02,1,Warehouse-B
+PROD-024,Legal Pads,Stationery,PaperWorks,350,120,600,2.25,8.99,2024-01-15,245,Warehouse-A
+PROD-025,Trail Mix,Food,HealthyMix,200,80,350,3.20,7.99,2024-01-13,140,Warehouse-C
+PROD-026,Graphics Tablet,Electronics,DesignTech,30,15,60,120.00,249.99,2024-01-10,12,Warehouse-A
+PROD-027,Executive Chair,Furniture,ComfortPlus,18,8,35,300.00,649.99,2024-01-07,4,Warehouse-B
+PROD-028,Correction Tape,Stationery,FixIt,280,100,450,1.20,3.99,2024-01-16,195,Warehouse-A
+PROD-029,Herbal Tea,Food,TeaTime,150,60,250,5.50,14.99,2024-01-14,95,Warehouse-C
+PROD-030,Smartphone,Electronics,MobileTech,25,10,50,400.00,799.99,2024-01-09,15,Warehouse-A
+PROD-031,Whiteboard,Furniture,BoardCorp,40,15,75,45.00,99.99,2024-01-11,25,Warehouse-B
+PROD-032,Binders,Stationery,OfficeBind,200,80,350,4.50,12.99,2024-01-15,140,Warehouse-A
+PROD-033,Chocolate Bars,Food,SweetTreats,300,120,500,1.50,3.99,2024-01-13,220,Warehouse-C
+PROD-034,Tablet,Electronics,TabletPro,20,8,40,250.00,499.99,2024-01-08,12,Warehouse-A
+PROD-035,Adjustable Desk,Furniture,FlexFurn,22,10,45,180.00,399.99,2024-01-06,8,Warehouse-B
+PROD-036,Paper Clips,Stationery,SmallBits,800,300,1200,0.25,2.99,2024-01-17,560,Warehouse-A
+PROD-037,Vitamin Water,Food,HealthDrink,120,50,200,2.80,5.99,2024-01-14,85,Warehouse-C
+PROD-038,Wireless Speaker,Electronics,SoundWave,55,20,100,35.00,79.99,2024-01-12,32,Warehouse-A
+PROD-039,Storage Cabinet,Furniture,StorageMax,28,12,50,120.00,259.99,2024-01-05,10,Warehouse-B
+PROD-040,Staplers,Stationery,FastenIt,150,60,250,8.50,24.99,2024-01-16,105,Warehouse-A
+PROD-041,Nuts Mix,Food,CrunchTime,180,70,300,4.20,9.99,2024-01-13,125,Warehouse-C
+PROD-042,Gaming Mouse,Electronics,GameGear,40,15,80,45.00,99.99,2024-01-10,25,Warehouse-A
+PROD-043,Lounge Chair,Furniture,RelaxFurn,15,6,30,250.00,549.99,2024-01-04,3,Warehouse-B
+PROD-044,Folders,Stationery,FileOrg,300,120,500,1.80,5.99,2024-01-15,210,Warehouse-A
+PROD-045,Sparkling Water,Food,BubbleWater,200,80,350,1.20,2.99,2024-01-14,140,Warehouse-C
+PROD-046,4K Monitor,Electronics,ViewTech,18,8,35,300.00,649.99,2024-01-09,10,Warehouse-A
+PROD-047,Meeting Chair,Furniture,ConferCorp,35,15,65,85.00,189.99,2024-01-07,18,Warehouse-B
+PROD-048,Rubber Stamps,Stationery,StampIt,120,50,200,3.50,12.99,2024-01-16,85,Warehouse-A
+PROD-049,Dried Fruit,Food,NatureBites,160,65,280,3.80,8.99,2024-01-13,110,Warehouse-C
+PROD-050,Smart Watch,Electronics,WearTech,30,12,60,180.00,399.99,2024-01-11,18,Warehouse-A
+PROD-051,Storage Ottoman,Furniture,StoreSeat,25,10,45,60.00,129.99,2024-01-08,12,Warehouse-B
+PROD-052,Calculators,Electronics,MathTech,80,30,150,15.00,34.99,2024-01-14,55,Warehouse-A
+PROD-053,Juice Boxes,Food,KidsJuice,250,100,400,1.80,4.99,2024-01-15,175,Warehouse-C
+PROD-054,Desk Organizer,Stationery,NeatDesk,100,40,180,12.00,29.99,2024-01-12,70,Warehouse-A
+PROD-055,Side Table,Furniture,TableCorp,30,12,55,45.00,99.99,2024-01-06,15,Warehouse-B
+PROD-056,Wireless Charger,Electronics,ChargeTech,65,25,120,20.00,44.99,2024-01-13,40,Warehouse-A
+PROD-057,Crackers,Food,CrunchCorp,180,70,320,2.20,5.99,2024-01-14,125,Warehouse-C
+PROD-058,Label Maker,Electronics,LabelPro,35,15,70,35.00,79.99,2024-01-11,22,Warehouse-A
+PROD-059,Floor Lamp,Furniture,LightSolutions,20,8,40,85.00,189.99,2024-01-05,8,Warehouse-B
+PROD-060,Tape Dispenser,Stationery,TapeIt,90,35,160,6.50,18.99,2024-01-16,63,Warehouse-A
+PROD-061,Granola,Food,MorningFuel,140,55,250,3.60,8.99,2024-01-13,98,Warehouse-C
+PROD-062,Fitness Tracker,Electronics,FitTech,45,18,85,80.00,179.99,2024-01-10,28,Warehouse-A
+PROD-063,Coat Rack,Furniture,HangIt,25,10,45,35.00,79.99,2024-01-07,12,Warehouse-B
+PROD-064,Hole Punch,Stationery,PunchIt,70,28,125,12.50,29.99,2024-01-15,49,Warehouse-A
+PROD-065,Popcorn,Food,SnackTime,200,80,350,2.40,5.99,2024-01-14,140,Warehouse-C
+PROD-066,Action Camera,Electronics,ActionPro,15,6,30,150.00,329.99,2024-01-09,8,Warehouse-A
+PROD-067,Bar Stool,Furniture,SitHigh,18,8,35,65.00,149.99,2024-01-04,6,Warehouse-B
+PROD-068,Paper Shredder,Electronics,ShredSafe,22,10,40,120.00,259.99,2024-01-12,12,Warehouse-A
+PROD-069,Cheese Crackers,Food,CheeseTime,160,65,280,2.80,6.99,2024-01-13,112,Warehouse-C
+PROD-070,Document Scanner,Electronics,ScanTech,12,5,25,200.00,449.99,2024-01-08,6,Warehouse-A
+PROD-071,Desk Pad,Stationery,DeskCover,85,35,150,8.00,22.99,2024-01-15,60,Warehouse-A
+PROD-072,Plant Stand,Furniture,GreenSupport,35,15,65,25.00,59.99,2024-01-06,18,Warehouse-B
+PROD-073,Energy Bars,Food,PowerFuel,220,90,380,2.60,6.99,2024-01-14,154,Warehouse-C
+PROD-074,Projector,Electronics,ProjectPro,8,3,15,400.00,899.99,2024-01-03,3,Warehouse-A
+PROD-075,Magazine Rack,Furniture,ReadOrg,28,12,50,22.00,49.99,2024-01-07,14,Warehouse-B
