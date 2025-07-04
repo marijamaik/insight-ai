@@ -100,3 +100,9 @@ async def delete_dataset(dataset_id: int):
     db.commit()
     db.close()
     return {"message": "Dataset deleted successfully"}
+
+# GET /datasets/{id}/analyze - Full statistical analysis
+# GET /datasets/{id}/correlations - Correlation matrix
+# GET /datasets/{id}/outliers - Outlier detection
+# GET /datasets/{id}/trends - Trend analysis
+# POST /datasets/{id}/visualize - Generate charts
