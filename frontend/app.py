@@ -40,3 +40,9 @@ with col2:
             st.info(f"Latest: {latest['filename']}")
     else:
         st.warning("Unable to load stats")
+
+# # Advanced visualizations:
+# - Plotly interactive charts
+# - Data quality scorecards
+# - Trend indicators
+# - Export functionality
